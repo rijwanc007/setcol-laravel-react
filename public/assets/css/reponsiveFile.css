@@ -1,0 +1,468 @@
+@media only screen  and (max-width: 320px){
+    .div_position_slide #slider .slide img {
+        height: 200px;
+    }
+    .skdslider {
+        height: 200px !important;
+        margin-top: -23%;
+    }
+    .margin_minus {
+        margin-left: -27%;
+        margin-right: auto;
+    }
+    .container-card {
+        width: 50%;
+        height: 50%;
+        position: relative;
+        top: 5px;
+        left: 25%;
+    }
+    .container-card .container-card-img{
+        width: 100%;
+        height: 100%;
+
+    }
+    #sticky.stick {
+        left: 7px;
+        margin-top: 11%;
+    }
+
+    /* navbar */
+    .social_icon{
+        height: 28px;
+        margin: 0px 11px;
+    }
+
+    .menu_item {
+        font-size: 13px;
+        margin: 7px 5px;
+    }
+    .nav-link {
+        color: rgb(65, 170, 225);
+        font-size: 13px;
+    }
+
+    .card-3{
+        margin-top: -9px;
+    }
+
+
+    .menu_top_margin {
+        margin-top: 33%;
+    }
+
+    .service_menu{
+        left: -70%;
+    }
+}
+@media only screen  and (max-width: 360px) and (min-width: 321px){
+    .div_position_slide #slider .slide img {
+        height: 200px;
+        margin-top: 9%;
+
+    }
+    .skdslider {
+        height: 200px !important;
+        margin-top: -23%;
+    }
+    .margin_minus {
+        margin-left: -13%;
+        margin-right: auto;
+    }
+
+    .container-card {
+        width: 50%;
+        height: 50%;
+        position: relative;
+        top: 5px;
+        left: 25%;
+    }
+
+    .container-card .container-card-img{
+
+        width: 100%;
+        height: 100%;
+
+    }
+    #sticky.stick {
+        left: 6px;
+        margin-top: 11%;
+    }
+
+    /* navbar */
+    .social_icon{
+        height: 28px;
+        margin: 0px 11px;
+    }
+
+    .menu_item {
+        font-size: 13px;
+        margin: 7px 5px;
+    }
+    .nav-link {
+        color: rgb(65, 170, 225);
+        font-size: 13px;
+    }
+
+    .card-3{
+        margin-top: -9px;
+    }
+
+
+    .menu_top_margin {
+        margin-top: 33%;
+    }
+
+    .service_menu{
+        left: -70%;
+    }
+}
+
+
+@media only screen  and (max-width: 400px) and (min-width: 361px) {
+    .div_position_slide #slider .slide img {
+        height: 200px;
+        margin-top: 6%;
+    }
+    .skdslider {
+        height: 200px !important;
+        margin-top: -23%;
+    }
+
+    .container-card {
+        width: 50%;
+        height: 50%;
+        position: relative;
+        top: 5px;
+        left: 25%;
+    }
+
+    .container-card .container-card-img{
+
+        width: 100%;
+        height: 100%;
+
+    }
+    #sticky.stick {
+        margin-left: -7px;
+        margin-top: 10%;
+    }
+
+    /* navbar */
+    .social_icon{
+        height: 28px;
+        margin: 4px 16px;
+    }
+
+    .menu_item {
+        font-size: 15px;
+        margin: 7px 8px;
+    }
+    .nav-link {
+        color: rgb(65, 170, 225);
+        font-size: 13px;
+    }
+
+    .card-3{
+        margin-top: -9px;
+    }
+
+
+    .menu_top_margin {
+        margin-top: 33%;
+    }
+
+    .service_menu{
+        left: -70%;
+    }
+    .margin_minus {
+        margin-left: -9%;
+    }
+}
+@media only screen  and (max-width: 499px) and (min-width: 401px) {
+    .div_position_slide #slider .slide img {
+        height: 200px;
+        margin-top: 9%;
+
+    }
+    .skdslider {
+        height: 200px !important;
+        margin-top: -23%;
+    }
+
+    .container-card {
+        width: 50%;
+        height: 50%;
+        position: relative;
+        top: 5px;
+        left: 25%;
+    }
+
+    .container-card .container-card-img{
+        width: 100%;
+        height: 100%;
+    }
+    #sticky.stick {
+        left: 8px;
+        margin-top: 10%;
+    }
+
+    /* navbar */
+    .social_icon{
+        height: 28px;
+        margin: 4px 16px;
+    }
+
+    .menu_item {
+        font-size: 15px;
+        margin: 7px 8px;
+    }
+    .nav-link {
+        color: rgb(65, 170, 225);
+        font-size: 13px;
+    }
+
+    .card-3{
+        margin-top: -9px;
+    }
+
+
+    .menu_top_margin {
+        margin-top: 33%;
+    }
+
+    .service_menu{
+        left: -70%;
+    }
+}
+
+@media only screen  and (max-width: 639px) and (min-width: 500px){
+    .div_position_slide #slider .slide img {
+        height: 100%;
+    }
+    #sticky.stick {
+        left: 2%;
+        margin-top: 5%;
+    }
+    .card_box {
+        display: inline-block;
+        height: auto;
+        margin-bottom: -16px;
+        margin-left: 20px;
+        margin-top: 1%;
+        position: relative;
+        width: auto;
+        padding: 7px;
+    }
+
+    .cd-2 {
+        position: relative;
+        bottom: 50%;
+        padding: 7px;
+
+    }
+
+
+    /*.container-card {*/
+    /*    position: relative;*/
+    /*    bottom: 80px;*/
+
+    /*}*/
+    .container-card {
+        width: 50%;
+        height: 50%;
+        position: relative;
+        top: 5px;
+        left: 25%;
+    }
+
+    /* navbar */
+    .social_icon{
+        height: 28px;
+        margin: 12px 26px;
+    }
+
+    .menu_item {
+        font-size: 14px;
+        margin: 7px 15px;
+    }
+
+    .nav-link {
+        color: rgb(65, 170, 225);
+        font-size: 13px;
+    }
+
+    .service_menu{
+        left: -49%;
+    }
+
+    .menu_top_margin {
+        margin-top: 15%;
+    }
+
+}
+@media only screen  and (max-width: 719px) and (min-width: 640px){
+    #sticky.stick {
+        left: 2%;
+        margin-top: 5%;
+    }
+    .card_box {
+        display: inline-block;
+        height: auto;
+        margin-bottom: -16px;
+        margin-left: 20px;
+        margin-top: 1%;
+        position: relative;
+        width: auto;
+        padding: 7px;
+    }
+    .cd-2 {
+        position: relative;
+        bottom: 50%;
+        padding: 7px;
+    }
+    .card_resp{
+        height: 34em;
+    }
+
+
+    .container-card {
+        width: 50%;
+        height: 50%;
+        position: relative;
+        top: 5px;
+        left: 25%;
+        bottom: 80px;
+
+    }
+
+    /* navbar */
+    .social_icon{
+        height: 28px;
+        margin: 12px 36px;
+    }
+
+    .menu_item {
+        font-size: 15px;
+        margin: 7px 26px;
+    }
+    .menu_top_margin {
+        margin-top: 15%;
+    }
+
+}
+@media only screen  and (max-width: 1023px) and (min-width: 720px){
+    .div_position_slide #slider .slide img {
+        height: 100%;
+    }
+    .div_position_slide{
+        margin-top: -10%;
+    }
+    #sticky.stick {
+        left: 1.5%;
+        margin-top: 2%;
+    }
+
+    .cd_1 {
+        position: relative;
+        /*top: 50px;*/
+
+
+    }
+    .cd-2 {
+        position: relative;
+        bottom: 50%;
+    }
+    .card-3{
+        margin-top: 7%;
+    }
+    .card_resp{
+        height: 39em;
+    }
+
+    .container-card {
+        width: 220px;
+        height: 250px;
+        position: relative;
+        left: 25%;
+        bottom: 50px;
+    }
+
+    .container-card-img img {
+        height: 200px;
+        width: 200px;
+    }
+
+    #services .service_pic {
+        /*width: 244px;*/
+        position: relative;
+        left: 0px;
+
+    }
+
+    #software .service_pic {
+        position: relative;
+        left: 0px;
+    }
+
+    .work_pic {
+        height: 300px;
+        width: 600px;
+
+
+    }
+
+    .review_img {
+        width: 200px;
+        height: 202px;
+    }
+    .menu_top_margin {
+        margin-top: 15%;
+    }
+    .service_menu{
+        left: -3%;
+    }
+}
+@media only screen and (max-width: 1300px) and (min-width: 1024px){
+    #sticky.stick {
+        left: 1.5%;
+        margin-top: 1%;
+    }
+
+    .container-card {
+        width: 250px;
+        height: 250px;
+        position: relative;
+        top: 100px;
+    }
+    .card_resp{
+        height: 29em;
+    }
+    .container-card-img img {
+        height: 220px;
+        width: 220px;
+        text-align: center;
+    }
+    .container-card-img img {
+        height: 200px;
+        width: 200px;
+    }
+    #services .service_pic {
+        /*width: 286px;*/
+        /*display: flex;*/
+        /*flex-wrap: wrap;*/
+        /*justify-content: center;*/
+    }
+    .div_position_slide {
+        margin-top: -8%;
+    }
+
+
+
+}
+@media only screen and (max-width: 1367px) and (min-width: 1300px){
+    #sticky.stick {
+        left: 1.2%;
+        margin-top: 1%;
+    }
+}
